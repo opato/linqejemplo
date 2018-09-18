@@ -1,0 +1,11 @@
+/Users/carlosmay/Documents/Programs/LinqEjemplo/bin/Debug/netcoreapp2.1/LinqEjemplo.deps.json
+/Users/carlosmay/Documents/Programs/LinqEjemplo/bin/Debug/netcoreapp2.1/LinqEjemplo.runtimeconfig.json
+/Users/carlosmay/Documents/Programs/LinqEjemplo/bin/Debug/netcoreapp2.1/LinqEjemplo.runtimeconfig.dev.json
+/Users/carlosmay/Documents/Programs/LinqEjemplo/bin/Debug/netcoreapp2.1/LinqEjemplo.dll
+/Users/carlosmay/Documents/Programs/LinqEjemplo/bin/Debug/netcoreapp2.1/LinqEjemplo.pdb
+/Users/carlosmay/Documents/Programs/LinqEjemplo/obj/Debug/netcoreapp2.1/LinqEjemplo.csprojAssemblyReference.cache
+/Users/carlosmay/Documents/Programs/LinqEjemplo/obj/Debug/netcoreapp2.1/LinqEjemplo.csproj.CoreCompileInputs.cache
+/Users/carlosmay/Documents/Programs/LinqEjemplo/obj/Debug/netcoreapp2.1/LinqEjemplo.AssemblyInfoInputs.cache
+/Users/carlosmay/Documents/Programs/LinqEjemplo/obj/Debug/netcoreapp2.1/LinqEjemplo.AssemblyInfo.cs
+/Users/carlosmay/Documents/Programs/LinqEjemplo/obj/Debug/netcoreapp2.1/LinqEjemplo.dll
+/Users/carlosmay/Documents/Programs/LinqEjemplo/obj/Debug/netcoreapp2.1/LinqEjemplo.pdb

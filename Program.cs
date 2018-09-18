@@ -17,6 +17,7 @@ namespace LinqEjemplo
             IEnumerable<string> encontrados = postres.Where(p => p.Contains("manzana"));
             foreach(string postre in encontrados)
                 Console.WriteLine(postre);
+            Console.WriteLine("------");
         }
     }
 }
